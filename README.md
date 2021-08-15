@@ -11,10 +11,10 @@
 
 ### Let's Connect:
 
-[<img align="left" alt="sohans.ink" width = "23px" src = "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](www.google.com)
+[<img align="left" alt="sohans.ink" width = "23px" src = "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://www.google.com)
 [<img align="left" alt = "sohanshow | Twitter" width = "23px" src ="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg">](https://twitter.com/Sohan_Show)
 [<img align="left" alt = "Sohan | Instagram" width = "23px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg">](https://www.instagram.com/sohanshow)
-[<img align="left" alt = "Sohan | Email address" width = "24px" src = "https://cdn.icon-icons.com/icons2/2428/PNG/512/gmail_black_logo_icon_147126.png">](textsohan@gmail.com)
+[<img align="left" alt = "Sohan | Email address" width = "24px" src = "https://cdn.icon-icons.com/icons2/2428/PNG/512/gmail_black_logo_icon_147126.png">](https://textsohan@gmail.com)
                                                                                                                                       
 
 <br />
