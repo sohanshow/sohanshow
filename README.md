@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sohan Show.
+### Hi there <img width = "30px" src= "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/> I'm Sohan Show <img width = "20px" src= "https://c.tenor.com/TgKK6YKNkm0AAAAi/verified-verificado.gif"/>
 
 ## I'm a Junior CS student in MA, USA 
 - 👀 I’m interested in full-stack development (App / Web).
