@@ -14,7 +14,7 @@
 [<img align="left" alt="sohans.ink" width = "23px" src = "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://www.google.com)
 [<img align="left" alt = "sohanshow | Twitter" width = "23px" src ="https://cdn.icon-icons.com/icons2/791/PNG/512/TWITTER_icon-icons.com_65486.png">](https://twitter.com/Sohan_Show)
 [<img align="left" alt = "Sohan | Instagram" width = "23px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg">](https://www.instagram.com/sohanshow)
-[<img align="left" alt = "Sohan | Email address" width = "24px" src = "https://cdn.icon-icons.com/icons2/2428/PNG/512/gmail_black_logo_icon_147126.png">](https://textsohan@gmail.com)
+[<img align="left" alt = "Sohan | Email address" width = "24px" src = "https://cdn.icon-icons.com/icons2/2428/PNG/512/gmail_black_logo_icon_147126.png">](mailto:textsohan@gmail.com)
                                                                                                                                       
 
 <br />
