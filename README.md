@@ -4,7 +4,7 @@
 - 👀 I’m interested in full-stack development (App / Web).
 - 🌱 I’m currently learning jScript, Python, and web-development.
 - 🎓 I'm proficient in Java, HTML5, CSS, Algo.
-- ⚙️ My goal is to build digital products for impacting the society.
+- ⚙️ My goal is to build useful digital products for the society.
 - 💞️ I’m looking to collaborate on android-development projects or projects that have real-world application.
 - 👨‍💻 Former competitive Coder. IARCS (Top 20% in the nation)
 
