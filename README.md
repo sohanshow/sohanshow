@@ -41,6 +41,7 @@
 
 <img align="left" alt="Android Studio" width = "30px" src ="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" />
 <img align="left" alt="Eclipse" width = "30px" src ="https://cdn.icon-icons.com/icons2/3110/PNG/512/eclipse_icon_191751.png"/>
+<img align="left" alt="NetBeans IDE" width = "29px" src = "https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"/>
 <img align="left" alt="V_S_Code" width = "29px" src ="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="node Js" width = "50px" src ="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
 <img align="left" alt="Bootstrap" width = "30px" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
