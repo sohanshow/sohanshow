@@ -1,4 +1,4 @@
-### Hi there <img width = "10px" src= "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/> I'm <a href="https://www.sohans.info">Sohan Show </a> <img width = "20px" src= "https://c.tenor.com/TgKK6YKNkm0AAAAi/verified-verificado.gif"/>
+### Hi there<img src= "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30> I'm <a href="https://www.sohans.info">Sohan Show </a> <img src= "https://c.tenor.com/TgKK6YKNkm0AAAAi/verified-verificado.gif" width = 18 />
 
 ## I'm a Junior CS student in MA, USA 
 - 👀 I’m interested in full-stack development (App / Web).
