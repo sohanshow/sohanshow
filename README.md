@@ -24,7 +24,9 @@
 <img align="left" alt="HTML5" width = "30px" src ="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"/>
 <img align="left" alt="CSS" width = "30px" src ="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
 <img align="left" alt="jScript" width = "30px" src ="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
-
+<img align="left" alt="Bootstrap" width = "30px" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
+<img align="left" alt="Angluar" width = "30px" src = "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" />
+<img align="left" alt="React" width = "30px" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
 
 <br />
 
@@ -33,6 +35,7 @@
 <img align="left" alt="Java" width = "40px" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
 <img align="left" alt="jScript" width = "35px" src ="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>
 <img align="left" alt="python" width = "35px" src ="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" />
+<img align="left" alt="python" width = "35px" src="https://img.icons8.com/external-outline-juicy-fish/60/undefined/external-sql-coding-and-development-outline-outline-juicy-fish.png"/>
 
 <br/>
 <br />
@@ -44,9 +47,7 @@
 <img align="left" alt="NetBeans IDE" width = "29px" src = "https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"/>
 <img align="left" alt="V_S_Code" width = "29px" src ="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="node Js" width = "50px" src ="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
-<img align="left" alt="Bootstrap" width = "30px" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
-<img align="left" alt="Angluar" width = "30px" src = "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" />
-<img align="left" alt="React" width = "30px" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
+
 
 
 <br />
