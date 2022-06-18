@@ -63,8 +63,8 @@
 
 <div>
     <img src="https://activity-graph.herokuapp.com/graph?username=sohanshow&theme=chartreuse-dark&hide_border=true&area=true" alt="Sohan's Contribution Graph" width="100%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohanshow&theme=chartreuse-dark&hide_border=true" alt="Sohan's Streak" width="49%">
-    <img src="https://github-readme-stats.vercel.app/api?username=sohanshow&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sohan's Githb Activity" width="50%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohanshow&theme=chartreuse-dark&hide_border=true" alt="Sohan's Streak" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=sohanshow&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sohan's Githb Activity" width="49%">
 </div>
 
 
