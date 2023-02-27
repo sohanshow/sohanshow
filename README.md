@@ -9,6 +9,7 @@
 - 👨‍💻 Former competitive Coder. IARCS (Top 20% in the nation)
 
 
+
 ### Let's Connect:
 
 [<img align="left" alt="sohans.info" width = "23px" src = "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://www.sohans.info)
@@ -63,7 +64,7 @@
 
 <div>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sohanshow&&theme=chartreuse-dark&hide_border=true&area=true&count_private=true" alt="Sohan's Contribution Graph" width="100%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohanshow&theme=chartreuse-dark&hide_border=true" alt="Sohan's Streak" width="50%">
+    <img src="https://streak-stats.demolab.com?user=sohanshow&theme=chartreuse-dark&hide_border=true" alt="Sohan's Streak" width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=sohanshow&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sohan's Githb Activity" width="49%">
 </div>
 
