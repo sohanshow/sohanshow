@@ -65,7 +65,9 @@
 <div>
     <img src="https://github-readme-activity-graph-gray.vercel.app/graph?username=sohanshow&&theme=chartreuse-dark&hide_border=true&area=true&count_private=true" alt="Sohan's Contribution Graph" width="100%">
     <img src="https://streak-stats.demolab.com?user=sohanshow&theme=chartreuse-dark&hide_border=true" alt="Sohan's Streak" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/?username=sohanshow&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sohan's Githb Activity" width="49%">
+<!--     <img src="https://github-readme-stats.vercel.app/api/?username=sohanshow&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sohan's Githb Activity" width="49%"> -->
+  
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sohanshow&layout=compact&theme=chartreuse-dark" alt="Most Used Languages" width="49%">
 </div>
 
 
