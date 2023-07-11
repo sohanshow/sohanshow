@@ -1,6 +1,6 @@
 ### Hi there<img src= "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30> I'm <a href="https://www.sohans.info">Sohan Show </a> <img src= "https://c.tenor.com/TgKK6YKNkm0AAAAi/verified-verificado.gif" width = 18 />
 
-## I'm a cum laude in Computer Engineering and Sciences 
+## I'm a cum laude in Computer Engineering and Sciences '23
 - 👀 I’m interested in full-stack development (App / Web).
 - 🌱 I’m currently a full-stack and AI developer @SQOR Technologies Inc.
 - 🎓 I'm proficient in Object Oriented Programming, Web development, and Mobile development.
