@@ -1,9 +1,9 @@
 ### Hi there<img src= "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30> I'm <a href="https://www.sohans.info">Sohan Show </a> <img src= "https://c.tenor.com/TgKK6YKNkm0AAAAi/verified-verificado.gif" width = 18 />
 
-## I'm a Senior CSE student in MA, USA 
+## I'm a cum laude in Computer Engineering and Sciences 
 - 👀 I’m interested in full-stack development (App / Web).
-- 🌱 I’m currently learning jScript, Python, and web-development.
-- 🎓 I'm proficient in Java, HTML5, CSS, Algo.
+- 🌱 I’m currently a full-stack and AI developer @SQOR Technologies Inc.
+- 🎓 I'm proficient in Object Oriented Programming, Web development, and Mobile development.
 - ⚙️ My goal is to build useful digital products for the society.
 - 💞️ I’m looking to collaborate on android-development projects or projects that have real-world application.
 - 👨‍💻 Former competitive Coder. IARCS (Top 20% in the nation)
