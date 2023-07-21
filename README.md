@@ -71,9 +71,10 @@
 </div>
 
 <div>
- <img src="https://streak-stats.demolab.com?user=sohanshow&theme=chartreuse-dark&hide_border=true" alt="Sohan's Streak" width="50%">
+ 
+ <img src="https://streak-stats.demolab.com?user=sohanshow&theme=chartreuse-dark&hide_border=true" alt="Sohan's Streak" width="58%">
 
- <img src ="https://github-readme-stats-ashen-omega-12.vercel.app/api/top-langs/?username=sohanshow&layout=compact&theme=chartreuse-dark&langs_count=6" alt="Most Used Languages" width="49%">
+ <img src ="https://github-readme-stats-ashen-omega-12.vercel.app/api/top-langs/?username=sohanshow&layout=compact&theme=chartreuse-dark&langs_count=8&hide_progress=true" alt="Most Used Languages" width="40%">
 
 </div>
 
