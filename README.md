@@ -1,4 +1,6 @@
-### Hi there<img src= "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30> I'm <a href="https://www.sohans.info">Sohan Show </a> <img src= "https://c.tenor.com/TgKK6YKNkm0AAAAi/verified-verificado.gif" width = 18 />
+## Hi there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45"/>](image.png) I'm [Sohan Show](https://www.sohans.info) </a> <img src= "https://c.tenor.com/TgKK6YKNkm0AAAAi/verified-verificado.gif" width = 18 />
+
+<!--https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif-->
 
 ## I'm a cum laude in Computer Engineering and Sciences '23
 - 👀 I’m interested in full-stack development (App / Web).
