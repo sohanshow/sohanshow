@@ -4,7 +4,7 @@
 
 ## I'm a cum laude in Computer Engineering and Sciences '23
 - 👀 I’m interested in full-stack development (App / Web).
-- 🌱 I’m currently a full-stack and AI developer @SQOR Technologies Inc.
+- 🌱 I’m currently a Software Development Engineer at Rudra AI LLC. (Founding Team)
 - 🎓 I'm proficient in Object Oriented Programming, Web development, and Mobile development.
 - ⚙️ My goal is to build useful digital products for the society.
 - 💞️ I’m looking to collaborate on android-development projects or projects that have real-world application.
