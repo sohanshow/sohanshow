@@ -5,10 +5,10 @@
 ## I'm a cum laude in Computer Engineering and Sciences '23
 - 👀 I’m interested in full-stack development (App / Web).
 - 🌱 I’m currently a Software Development Engineer at Rudra AI LLC. (Founding Team)
-- 🎓 Software Engineering and Artificial Intelligenc/ML
+- 🎓 Software Engineering and Artificial Intelligenc/ML.
 - ⚙️ My goal is to build useful digital products for the society.
 - 💞️ I’m looking to collaborate on android-development projects or projects that have real-world application.
-- 👨‍💻 Former competitive Coder. IARCS (Top 20% in the nation)
+- 👨‍💻 Former competitive Coder. IARCS (Top 10% in the nation)
 
 
 
