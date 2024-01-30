@@ -2,7 +2,7 @@
 
 <!--https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif-->
 
-## I'm a cum laude in Computer Engineering and Sciences '23
+## Lead Developer (Founding Team) Rudra AI (CSE '23)
 - 👀 I’m interested in full-stack development (App / Web).
 - 🌱 I’m currently a Software Development Engineer at Rudra AI LLC. (Founding Team)
 - 🎓 Software Engineering and Artificial Intelligence/Machine Learning.
