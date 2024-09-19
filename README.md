@@ -1,4 +1,4 @@
-## Hi there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/>](image.png) I'm [Sohan Show](https://www.sohans.info) </a> <img src= "https://c.tenor.com/TgKK6YKNkm0AAAAi/verified-verificado.gif" width = 18 />
+## Hi there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/>](image.png) I'm [Sohan Show](https://github.com/sohanshow) </a> <img src= "https://c.tenor.com/TgKK6YKNkm0AAAAi/verified-verificado.gif" width = 18 />
 
 <!--https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif-->
 
