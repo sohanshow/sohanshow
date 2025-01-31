@@ -31,10 +31,8 @@ Realistic, resilient, and passionate software developer who loves to learn, coll
 <img align="left" alt="jScript" width = "35px" src ="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
 <img align="left" alt="Postgress" width = "35px" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg"/>
 <img align="left" alt="Mongo_DB" width = "35px" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175138.png?f=webp&w=512"/>
-<img align="left" alt="Java" width = "40px" src ="https://banner2.cleanpng.com/20180426/kbw/avexiclb6.webp" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
 
-<br/>
-<br />
 
 ### Editors and Frameworks: 
 <img align="left" alt="Jupyter_Notebook" width = "30px" src ="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
