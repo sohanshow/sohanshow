@@ -21,7 +21,7 @@ Realistic, resilient, and passionate software developer who loves to learn, coll
 <img align="left" alt="CSS" width = "30px" src ="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
 <img align="left" alt="jScript" width = "30px" src ="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
 <img align="left" alt="TypeScript" width = "30px" src ="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
-<img align="left" alt="React" width = "30px" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
+<img align="left" alt="React" width = "30px" src ="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 
 <br />
 
