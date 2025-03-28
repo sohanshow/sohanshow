@@ -2,7 +2,7 @@
 
 <!--https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif-->
 
-## Product Engineer PlayAI
+## Product Engineer @PlayAI Inc.
 
 ## Lead Developer (Founding Team @RudraAI)
 
