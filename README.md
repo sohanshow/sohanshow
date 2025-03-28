@@ -2,9 +2,9 @@
 
 <!--https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif-->
 
-## Product Engineer @PlayAI Inc.
+## Product Engineer @<a href="https://play.ai/" target="_blank">PlayAI Inc.</a>
 
-## Lead Developer (Founding Team @RudraAI)
+## Lead Developer (Founding Team @<a href="https://rudraai.com/">RudraAI</a>)
 
 Realistic, resilient, and passionate software developer who loves to learn, collaborate and create sustainable and scalable tech products. I build awesome tech that adds value to businesses and consumers. AI/ML, Full-Stack, Data, Web, and Mobile.
 
