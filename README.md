@@ -2,7 +2,7 @@
 
 <!--https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif-->
 
-## Product Engineer @<a href="https://play.ai/" target="_blank">PlayAI Inc.</a>
+## IC (AI/ML/Full-Stack) @<a href="https://meta.com/" target="_blank">Meta Superintelligence</a>
 
 ## Lead Developer (Founding Team @<a href="https://rudraai.com/">RudraAI</a>)
 
