@@ -2,7 +2,7 @@
 
 <!--https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif-->
 
-## IC (AI/ML/Full-Stack) @<a href="https://meta.com/" target="_blank">Meta</a> Superintelligence Labs
+## Building Gen AI @<a href="https://meta.com/" target="_blank">Meta</a> Superintelligence Labs
 
 ## Lead Developer (Founding Team @<a href="https://rudraai.com/">RudraAI</a>)
 
