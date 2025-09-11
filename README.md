@@ -67,7 +67,7 @@ Realistic, resilient, and passionate software developer who loves to learn, coll
 
 <div>
  
- <img src="https://github-readme-streak-stats-7pxfj9alc.vercel.app/?user=sohanshow&theme=chartreuse-dark&hide_border=true" alt="Sohan's Streak" width="58%">
+ <img src="https://github-readme-streak-stats-sigma-roan.vercel.app/?user=sohanshow&theme=chartreuse-dark&hide_border=trueN" alt="Sohan's Streak" width="58%">
 
  <img src ="https://github-readme-stats-ashen-omega-12.vercel.app/api/top-langs/?username=sohanshow&layout=compact&theme=chartreuse-dark&langs_count=8&hide_progress=true" alt="Most Used Languages" width="40%">
 
