@@ -4,7 +4,7 @@
 
 ## Building Gen AI @<a href="https://meta.com/" target="_blank">Meta</a> Superintelligence Labs
 
-## Lead Developer (Founding Team @<a href="https://rudraai.com/">RudraAI</a>)
+## Founding Engineer @<a href="https://rudraai.com/">RudraAI</a>
 
 Realistic, resilient, and passionate software developer who loves to learn, collaborate and create sustainable and scalable tech products. I build awesome tech that adds value to businesses and consumers. AI/ML, Full-Stack, Data, Web, and Mobile.
 
